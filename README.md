@@ -1,5 +1,5 @@
 # Calculadora de IMC
-Esse projeto calcular seu indice de massa corporal e mostra se está acima do peso!
+Esse projeto calcula seu índice de massa corporal e mostra se está acima do peso!
 
 
 ## 🔨Tecnologias usadas
